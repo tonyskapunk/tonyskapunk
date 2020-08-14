@@ -1,16 +1,16 @@
-### Hi there 👋
+[![GitHub](https://img.shields.io/github/followers/tonyskapunk?color=bd93f9&label=%20tonyskapunk&logo=github&style=plastic&labelColor=282a36)]()
+[![GitLab](https://img.shields.io/badge/tonyskapunk-2-%23ffb86c?logo=gitlab&labelColor=282a36)](https://gitlab.com/tonyskapunk)
+[![Keybase](https://img.shields.io/badge/tonyskapunk-11-%238be9fd?logo=keybase&labelColor=282a36)](https://keybase.io/tonyskapunk)
+[![LinkedIn](https://img.shields.io/badge/tonyskapunk-303-%23ff5555?logo=linkedin&labelColor=282a36)](https://www.linkedin.com/in/tonyskapunk/)
+[![Mastodon](https://img.shields.io/badge/tonyskapunk-5-%236272a4?logo=mastodon&labelColor=282a36)](https://mastodon.host/@tonyskapunk)
+[![Twitter](https://img.shields.io/twitter/follow/tonyskapunk?color=%23ff79c6&label=%40tonyskapunk&logo=twitter&logoColor=%238be9fd&style=plastic&labelColor=282a36)](https://twitter.com/tonyskapunk)
 
-<!--
-**tonyskapunk/tonyskapunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+Atipical parent, dog lover. Systems engineer. Enjoy mountain biking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Stats
+
+![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyskapunk&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyskapunk&count_private=false&show_icons=true&theme=dracula)
