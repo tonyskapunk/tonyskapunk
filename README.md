@@ -7,7 +7,7 @@
 
 ### About
 
-Atipical parent, dog lover. Systems engineer. Enjoy mountain biking.
+Atypical parent, dog lover. Systems engineer. Enjoy mountain biking.
 
 
 ### Stats
