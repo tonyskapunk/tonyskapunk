@@ -12,5 +12,5 @@ Atypical parent, dog lover. Systems engineer. Enjoy mountain biking.
 
 ### Stats
 
-![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyskapunk&layout=compact&theme=dracula)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyskapunk&count_private=false&show_icons=true&theme=dracula)
+![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyskapunk&layout=compact&theme=dracula&cache_seconds=1800&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyskapunk&count_private=false&show_icons=true&theme=dracula&cache_seconds=1800)
