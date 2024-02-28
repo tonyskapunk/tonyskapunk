@@ -2,8 +2,7 @@
 [![GitLab](https://img.shields.io/badge/tonyskapunk-2-%23ffb86c?logo=gitlab&labelColor=282a36)](https://gitlab.com/tonyskapunk)
 [![Keybase](https://img.shields.io/badge/tonyskapunk-11-%238be9fd?logo=keybase&labelColor=282a36)](https://keybase.io/tonyskapunk)
 [![LinkedIn](https://img.shields.io/badge/tonyskapunk-303-%23ff5555?logo=linkedin&labelColor=282a36)](https://www.linkedin.com/in/tonyskapunk/)
-[![Mastodon](https://img.shields.io/badge/tonyskapunk-5-%236272a4?logo=mastodon&labelColor=282a36)](https://mastodon.host/@tonyskapunk)
-[![Twitter](https://img.shields.io/twitter/follow/tonyskapunk?color=%23ff79c6&label=%40tonyskapunk&logo=twitter&logoColor=%238be9fd&style=plastic&labelColor=282a36)](https://twitter.com/tonyskapunk)
+[![Mastodon](https://img.shields.io/badge/tonyskapunk-5-%236272a4?logo=mastodon&labelColor=282a36)](https://fosstodon.org/@tonyskapunk)
 
 ### About
 
